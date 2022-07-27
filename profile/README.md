@@ -12,14 +12,14 @@
 
 ## Open Positions
 
-Artist Team
-Buissness and Finance Team 
-Data Team 
-Frontend Developer Team 
-Legal Proccesses Team 
-Marketing Team 
-Public Communications Team 
-System Admin Team 
+Artist Team <br>
+Buissness and Finance Team <br>
+Data Team <br>
+Frontend Developer Team <br>
+Legal Proccesses Team <br>
+Marketing Team <br>
+Public Communications Team <br>
+System Admin Team <br>
 
 # Our Developers 
 
