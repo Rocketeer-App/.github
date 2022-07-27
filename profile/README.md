@@ -32,5 +32,5 @@ System Admin Team
 ### Project Coordinator - **VoidyCD**
 *Job Description*: Oversees the entire project <br>
 *Age:* 15 <br>
-*Work Location: * **Unkown**<br>
+*Work Location:* **Unkown**<br>
 *Education:* Student
