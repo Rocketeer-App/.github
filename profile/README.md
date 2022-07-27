@@ -20,3 +20,17 @@ Legal Proccesses Team
 Marketing Team 
 Public Communications Team 
 System Admin Team 
+
+# Our Developers 
+
+### Senior Full Stack Developer - **Ryan Rudd**
+*Job Description:* Is incharge of all the developers wether thats frontend and or backend. He manages them. <br>
+*Age:* 14 Years Old<br>
+*Work location:* Palm Beach, Florida<br>
+*Education:* Advanced Placement Computer Science Student
+
+### Project Coordinator - **VoidyCD**
+*Job Description*: Oversees the entire project <br>
+*Age:* 15 <br>
+*Work Location: * **Unkown**<br>
+*Education:* Student
