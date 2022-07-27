@@ -9,3 +9,14 @@
  To become a contibuted please contact `ryanruddd@gmail.com` 
  
  The projects file are private. Access will be granted on approval 
+
+## Open Positions
+
+Artist Team
+Buissness and Finance Team 
+Data Team 
+Frontend Developer Team 
+Legal Proccesses Team 
+Marketing Team 
+Public Communications Team 
+System Admin Team 
